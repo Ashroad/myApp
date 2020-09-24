@@ -10,7 +10,7 @@ x = setInterval(() => {
         console.log(angle3);
         angle3 = angle3 - (angle / 100);
     }
-//? Far away
+
 
 }, 1000);
 
