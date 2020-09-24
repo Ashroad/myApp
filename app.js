@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var angle, angle3, x;
 angle = 180;
 angle3 = angle * 90;
@@ -14,4 +15,6 @@ x = setInterval(() => {
 
 }, 1000);
 
+=======
+>>>>>>> 617ed15fac50426d8b7e634ff0de153e915e0f39
 
